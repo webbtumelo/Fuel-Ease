@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="https://schemas.android.com/apk/res/android">
+<item
+android:drawable="@mipmap/iPhone 14 & 15 Pro Max -2"
+android:gravity="fill" />
+</layer-list>
+
